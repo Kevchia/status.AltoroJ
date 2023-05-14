@@ -1,5 +1,5 @@
 # Change these first
-owner: KevinChia
+owner: kevchia
 repo: status.AltoroJ
 
 sites:
@@ -12,12 +12,12 @@ status-website:
   
   baseUrl: /status.AltoroJ
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: status.AltoroJ
+  name: AltoroJ Status
   introTitle: "status.AltoroJ uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status.AltoroJ status page
   navbar:
     - title: Status
-      href: https://kevchia.github.io/status.AltoroJ/
+      href: /status.AltoroJ
     - title: GitHub
       href: https://github.com/Kevchia/status.AltoroJ
 
