@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.testfire.net.ico",
     "slug": "altoro-j",
     "status": "up",
-    "uptime": "93.51%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "93.51%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "93.51%",
-    "time": 215,
-    "timeDay": 202,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "uptime": "91.66%",
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "91.66%",
+    "time": 217,
+    "timeDay": 205,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-05-15": 143
+      "2023-05-15": 187
     }
   }
 ]
