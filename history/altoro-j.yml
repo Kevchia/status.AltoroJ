@@ -1,7 +1,7 @@
 url: https://demo.testfire.net/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-08T10:30:05.037Z
+status: up
+code: 200
+responseTime: 418
+lastUpdated: 2023-12-08T10:42:05.301Z
 startTime: 2023-05-14T03:41:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
