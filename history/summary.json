@@ -6,17 +6,17 @@
     "slug": "altoro-j",
     "status": "up",
     "uptime": "97.97%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "97.97%",
     "time": 375,
-    "timeDay": 286,
-    "timeWeek": 305,
-    "timeMonth": 268,
+    "timeDay": 323,
+    "timeWeek": 306,
+    "timeMonth": 266,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-04-24": 49,
+      "2024-04-24": 37,
       "2024-03-30": 23,
       "2024-03-04": 67,
       "2024-03-01": 25,
@@ -74,7 +74,7 @@
       "2023-10-09": 219,
       "2023-10-07": 52,
       "2023-10-04": 93,
-      "2023-10-03": 86
+      "2023-10-03": 115
     }
   }
 ]
