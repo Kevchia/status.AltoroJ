@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.testfire.net.ico",
     "slug": "altoro-j",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "89.55%",
-    "time": 331,
-    "timeDay": 265,
-    "timeWeek": 280,
-    "timeMonth": 359,
+    "time": 332,
+    "timeDay": 539,
+    "timeWeek": 319,
+    "timeMonth": 365,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2024-10-10": 23,
@@ -105,8 +105,7 @@
       "2023-11-15": 61,
       "2023-11-14": 177,
       "2023-11-08": 90,
-      "2023-11-02": 159,
-      "2023-10-26": 24
+      "2023-11-02": 159
     }
   }
 ]
