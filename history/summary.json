@@ -4,8 +4,8 @@
     "url": "https://demo.testfire.net/",
     "icon": "https://icons.duckduckgo.com/ip3/demo.testfire.net.ico",
     "slug": "altoro-j",
-    "status": "up",
-    "uptime": "93.54%",
+    "status": "down",
+    "uptime": "93.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "99.52%",
@@ -16,6 +16,7 @@
     "timeMonth": 365,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2025-01-13": 0,
       "2025-01-08": 187,
       "2025-01-01": 21,
       "2024-11-24": 15,
